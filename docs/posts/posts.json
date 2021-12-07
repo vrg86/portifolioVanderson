@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2021-12-07T15:54:24-03:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2021-12-07-anlise-de-dados-da-rais/",
+    "title": "Análise de dados da RAIS",
+    "description": "Essa análise teve como objetivos analisar salários na base da RAIS. Esse projeto foi realizado na semana Data Science na Prática da Curso-r.",
+    "author": [
+      {
+        "name": "Vanderson Gonçalves",
+        "url": {}
+      }
+    ],
+    "date": "2021-12-07",
+    "categories": [],
+    "contents": "\r\nEste é o meu primeiro post do meu blog.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-12-07T16:17:22-03:00",
+    "input_file": "anlise-de-dados-da-rais.knit.md"
   }
 ]
