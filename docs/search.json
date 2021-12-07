@@ -2,18 +2,18 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "title": "Sobre esse blog",
+      "description": "Este blog é pessoal.",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-12-07T15:54:44-03:00"
+      "last_modified": "2021-12-07T19:18:54-03:00"
     },
     {
       "path": "index.html",
       "title": "Portfólio do Vanderson",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-12-07T16:07:57-03:00"
+      "last_modified": "2021-12-07T16:17:22-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
